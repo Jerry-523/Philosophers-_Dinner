@@ -1,4 +1,4 @@
-# Philosophers-_Dinner
+# Philosophers_Dinner
 
 ## Objectivos
   A concretização deste trabalho visa possibilitar aos alunos compreender e
